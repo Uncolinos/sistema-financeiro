@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador Financeiro",
+  "description": "Gerenciador financeiro pessoal inteligente com relatórios automatizados por IA, acompanhamento de orçamentos e gráficos de fluxo de caixa interativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
